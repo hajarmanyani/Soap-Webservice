@@ -2,38 +2,38 @@
 # Réalisé par: Manyani Hajar
 
 <h3>Création d'un projet Java Maven nommé ws1</h3>
-<img width="600" height="300" alt="Capture1" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/d7db0c48-ecdc-442e-b8d7-57db762e07f7">
+<img width="600" height="300" alt="Capture1" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/991842c0-4428-4bc4-bb0f-b3f28a80b8d2">
 
 <h3>Création de la classe Compte</h3>
 <p>Cette classe a comme attribus le code, le solde, ainsi que la date de création</p>
-<img width="600" height="300" alt="Capture2" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/5a78dfda-a74b-45b3-b7f6-4c929e79ea50">
+<img width="600" height="300" alt="Capture2" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/77eebbe9-3648-449c-b052-229ac2452792">
 
 <h3>Création d'un web service nommé BanqueWS</h3>
 <p>Ce web service comprend trois méthodes, à savoir la méthode Convert, getCompte, et listComptes qui retourne une liste des comptes</p>
-<img width="600" height="300" alt="Capture3" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/a1dc8428-4285-4f40-922d-c130bcd67045">
+<img width="600" height="300" alt="Capture3" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/8c240507-ac6e-4b03-bbc9-f461386dd78b">
 
 <h3>Déployer le web service</h3>
 <p>Pour cela, j'ai créé mon propre serveur déployé sur l'adresse "http://0.0.0.0:9191/" afin de consommer le web service BanqueService</p>
-<img width="600" height="300" alt="Capture4" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/8c2fc653-0cc8-463f-bd3a-929fb21c6560">
+<img width="600" height="300" alt="Capture4" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/677b8d5b-029f-41cc-92e7-426801cf6822">
 
 <h3>Visualisation du wsdl</h3>
-<img width="600" height="300" alt="Capture5" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/20a3582e-c476-4f38-a145-0a562eb78c2c">
+<img width="600" height="300" alt="Capture5" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/1b18248a-1221-4fa5-ab22-d25eb2fc07e7">
 
 <h3>Visualisation du schéma XML</h3>
-<img width="600" height="300" alt="Capture6" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/8aef7274-8ce6-417f-b9b6-5cb99bf9f811">
+<img width="600" height="300" alt="Capture6" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/925a20b0-982d-41f8-ad85-dd69542f7b47">
 
 <h3>Tester le web service</h3>
 <h4>Création d'un nouveau projet SOAP</h4>
-<img width="600" height="300" alt="Capture7" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/ab6212ea-bcf9-43bb-ac58-f6a09b891af9">
+<img width="600" height="300" alt="Capture7" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/2e6ce7ef-ea51-4c13-a805-e1db7e3aad44">
 <h4>Teste de la méthode Convert</h4>
-<img width="600" height="300" alt="Capture8" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/36ac9ca8-4284-4c15-809b-282534d4be27">
+<img width="600" height="300" alt="Capture8" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/862aa729-3086-48f0-af63-609cd80e079b">
 <h4>Teste de la méthode getCompte</h4>
-<img width="600" height="300" alt="Capture9" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/2e192c31-715c-403f-8d87-c5332327c5ac">
+<img width="600" height="300" alt="Capture9" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/185488dd-7250-4b88-818b-db60926e02b7">
 <h4>Teste de la méthode listComptes</h4>
-<img width="600" height="300" alt="Capture10" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/01e97ab4-664e-4015-8428-f4f16e8ec0a3">
+<img width="600" height="300" alt="Capture10" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/15dddf78-fdb5-41c9-a2bf-31d33ab0d210">
 
 <h3>Utiliser le proxy pour communiquer avec le web service</h3>
-<img width="600" height="300" alt="Capture13" src="https://github.com/hajarmanyani/Web-Service-SOAP/assets/93662714/2a3f0bab-718a-40b4-b5a5-6a7664e06c25">
+<img width="600" height="300" alt="Capture13" src="https://github.com/hajarmanyani/Soap-Webservice/assets/93662714/237cd78e-8a3f-49dd-802c-11c06d22c5ef">
 
 
 
